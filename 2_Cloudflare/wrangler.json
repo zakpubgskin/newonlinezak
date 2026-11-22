@@ -1,5 +1,5 @@
 {
-  "name": "lua",
+  "name": "newonlinezak",
   "main": "worker.mjs",
   "compatibility_date": "2026-10-19",
   "workers_dev": true,
